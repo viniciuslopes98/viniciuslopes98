@@ -1,8 +1,8 @@
 ### Olá! Bem-vindo ao meu perfil! Sou o Vinicius 👋
-
-- 🌱 Atualmente estudando JAVA☕
 ##
-<div align="center">
+👨‍💻 Atualmente estudando: JAVA☕ |  MySQL 🐬 | Spring 🍃|
+##
+<div align="left">
   
   <a href="https://github.com/viniciuslopes98">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=viniciuslopes98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
