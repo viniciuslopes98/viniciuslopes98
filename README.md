@@ -1,4 +1,4 @@
-### Olá! Bem-vindo ao meu perfil! Sou o Vinicius 👋
+### Olá! Bem-vindo ao meu perfil! 💬
 ##
 👨‍💻 Atualmente estudando: JAVA☕ |  MySQL 🐬 | Spring 🍃|
 ##
