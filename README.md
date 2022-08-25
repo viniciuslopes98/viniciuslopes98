@@ -2,6 +2,7 @@
 ##
 👨‍💻 Atualmente estudando: JAVA☕ |  MySQL 🐬 | Spring 🍃|
 ##
+![AccurateUnfinishedBergerpicard-size_restricted](https://user-images.githubusercontent.com/105940878/186555555-c774e862-0624-4294-8d2a-e11ca513f705.gif)
 <div align="left">
   
   <a href="https://github.com/viniciuslopes98">
@@ -22,7 +23,7 @@
            
           
 
-            
+
            
           
           
