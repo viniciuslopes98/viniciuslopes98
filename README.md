@@ -4,15 +4,15 @@
 ##
 
 
-<div style="display: inline_block"><br> <img align="right" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<div style="display: inline_block"><br> <img align="right" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<div style="display: inline_block"><br> <img align="right" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+<div style="display: inline_block"><br> <img align="left" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<div style="display: inline_block"><br> <img align="left" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<div style="display: inline_block"><br> <img align="left" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 <div align="left">
 
 
 
 
- <a href="https://github.com/viniciuslopes98">
+
  
  
  
