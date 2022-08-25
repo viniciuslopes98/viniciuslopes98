@@ -3,7 +3,7 @@
 👨‍💻 Atualmente estudando: JAVA☕ |  MySQL 🐬 | Spring 🍃|
 ##
   <div align="right">
-<img src="https://user-images.githubusercontent.com/105940878/186555555-c774e862-0624-4294-8d2a-e11ca513f705.gif" width="200px" />
+<img src="https://user-images.githubusercontent.com/105940878/186555555-c774e862-0624-4294-8d2a-e11ca513f705.gif" width="100px" />
 </div> 
 <div align="center">
 
