@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo ao meu perfil! 💬
 ##
-👨‍💻 Atualmente estudando: JAVA☕ |  MySQL 🐬 | Spring 🍃|
+👨‍💻 Estudando... JAVA☕ |  MySQL 🐬 | Spring 🍃| React ⚛️
 ##
 
 
@@ -8,9 +8,12 @@
 <div style="display: inline_block"><br> <img align="left" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <div style="display: inline_block"><br> <img align="left" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 <div align="left">
+<div style="display: inline_block"><br> <img align="left" alt="" height="100" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+<div align="left">
 
 
-
+            
+          
 
 
  
@@ -29,7 +32,7 @@
            
          
  <div align="right">
-<img src="https://user-images.githubusercontent.com/105940878/186555555-c774e862-0624-4294-8d2a-e11ca513f705.gif" width="500px" />
+<img src="https://user-images.githubusercontent.com/105940878/186555555-c774e862-0624-4294-8d2a-e11ca513f705.gif" width="300px" />
 </div> 
 
      
