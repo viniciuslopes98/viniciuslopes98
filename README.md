@@ -2,9 +2,10 @@
 ##
 👨‍💻 Atualmente estudando: Java☕ | Spring 🍃| MySQL 🐬| HTML ⌨| CSS 🎨|Java Script ⚡|React ⚛️ 
 ##
-
+<div style="display: inline_block">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=viniciuslopes98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslopes98&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div style="display: inline_block">
 <img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="center" alt="" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
