@@ -33,7 +33,9 @@
  
 
         
+<img src="https://raw.githubusercontent.com/viniciuslopes98/viniciuslopes98/blob/output/snake.svg" alt="Snake animation" />
 
+###
 
      
           
