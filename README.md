@@ -4,7 +4,6 @@
 
 <div style="display: inline_block">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=viniciuslopes98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://user-images.githubusercontent.com/105940878/186555555-c774e862-0624-4294-8d2a-e11ca513f705.gif">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslopes98&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
