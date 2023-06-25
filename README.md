@@ -5,7 +5,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslopes98&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-#### -Padrões OpenAPI - API First - Micro-serviços - Testes unitários - CI/CD - Metodologias ágeis - Modelagem de dados
+#### -Padrões OpenAPI - API First - Micro serviços - Testes unitários - CI/CD - Metodologias ágeis - Modelagem de dados
 
 <div style="display: inline_block">
 <img align="center" alt="" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
